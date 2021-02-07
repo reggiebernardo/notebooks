@@ -5,4 +5,3 @@ I happily share the notebooks (mathematica and jupyter) used in my research. Hop
 Let me know if I can help. Send a friendly message.
 
 - Reggie
-
