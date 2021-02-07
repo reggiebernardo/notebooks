@@ -1,0 +1,8 @@
+supplementary notebooks to arxiv:2101.00965
+
+(1) main.nb - main notebook to arxiv:2101.00965
+(2) kgb_cosmology.nb - derivation of cosmological field equations from KGB action using xAct, xPert, and xCoba
+(3) kgb_second_order_action - derivation of quadratic action for perturbations in KGB using xPand
+(4) fig_Xb - integrates field equations to produce 200x200 pixels basin plot of figure X(b), X={1,2,10}
+
+__.m files are packages where results of the above notebooks are stored for convenience
