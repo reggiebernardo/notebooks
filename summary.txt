@@ -1,0 +1,15 @@
+description of notebooks
+
+(1) thesis_notebooks: collection of notebooks used in my PhD thesis "Compact Objects, Cosmologies, and Gravitational Perturbations in Scalar-Tensor Theories of Gravity"
+
+(2) integration_cosmo_dynamics: jupyter notebooks for (i) obtaining the universe's scale factor from the Friedmann equation (ii) studying scalar field dynamics in an expanding spacetime
+
+(3) gg_cosmo_xact_2019: Mathematica slides and group output in cosmology and xTensor parts of the Gravity Group's workshop in 2019
+
+(4) xact_workshop_2020: Mathematica slides for field theory using xAct in Gravity Group's workshop in 2020
+
+(5) quadratic_action_kgb: derivation of the second-order action for scalar and tensor perturbations in kinetic gravity braiding using xPand
+
+(6) supp_codes_arxiv.2007.06006: supplementary Mathematica notebooks for arXiv:2007.06006 (Stealth black hole perturbations in kinetic gravity braiding)
+
+(7) supp_ntbks_arxiv.2101.00965: supplementary Mathematica notebooks for arXiv:2101.00965 (Self-tuning kinetic gravity braiding: Cosmological dynamics,  shift symmetry, and the tadpole)
