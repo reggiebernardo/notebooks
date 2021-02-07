@@ -1,4 +1,6 @@
-description of notebooks
+Summary description of notebooks
+
+*My Mathematica codes often use the xAct package and its derivatives (specifically, xPert, xCoba, and xPand) to avoid the mentally taxing tensor algebra calculations chained to metric theories of gravity. This gets the math done and helps me focus on the physical results.
 
 (1) thesis_notebooks: collection of notebooks used in my PhD thesis "Compact Objects, Cosmologies, and Gravitational Perturbations in Scalar-Tensor Theories of Gravity"
 
