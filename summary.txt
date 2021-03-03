@@ -15,3 +15,5 @@ Summary description of notebooks
 (6) supp_codes_arxiv.2007.06006: supplementary Mathematica notebooks for arXiv:2007.06006 (Stealth black hole perturbations in kinetic gravity braiding)
 
 (7) supp_ntbks_arxiv.2101.00965: supplementary Mathematica notebooks for arXiv:2101.00965 (Self-tuning kinetic gravity braiding: Cosmological dynamics,  shift symmetry, and the tadpole)
+
+(8) supp_ntbks_arxiv.xxxx.xxxxx: supplementary Mathematica notebooks for arXiv:xxxx.xxxxx (Gravitational wave signatures from dark sector interactions)
