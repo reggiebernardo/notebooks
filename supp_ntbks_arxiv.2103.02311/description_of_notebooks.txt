@@ -1,6 +1,6 @@
-supplementary notebooks to arxiv:xxxx.xxxxx
+supplementary notebooks to arxiv:2103.02311
 
-(1) bald_bh_perturb.nb - main notebook to arxiv:xxxx.xxxxx (derives results in Secs. II-III)
+(1) bald_bh_perturb.nb - main notebook to arxiv:2103.02311 (derives results in Secs. II-III)
 (2) integration.nb - numerical integration of coupled Zerilli and scalar wave equations
 
 __.m files are packages where results of the above notebooks are stored for convenience
