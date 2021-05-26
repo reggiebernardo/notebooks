@@ -1,0 +1,13 @@
+contains a friendly two-part jupyter notebook on
+reconstructing Horndeski theories via the Gaussian process
+using scikit-learn
+
+part 1: gp_horndeski_part_1_Hz_reconstruction.ipynb
+part 2: gp_horndeski_part_2_model_building_skl.ipynb
+
+datasets used: SNe, BAO, CC
+python packages used:
+sklearn, cobaya, getdist, numpy, scipy, seaborn, matplotlib
+
+detailed references to the datasets and python packages in part 1
+detailed references to Horndeski reconstruction methods in part 2
