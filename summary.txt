@@ -17,3 +17,5 @@ Summary description of notebooks
 (7) supp_ntbks_arxiv.2101.00965: supplementary Mathematica notebooks for arXiv:2101.00965 (Self-tuning kinetic gravity braiding: Cosmological dynamics,  shift symmetry, and the tadpole)
 
 (8) supp_ntbks_arxiv.2103.02311: supplementary Mathematica notebooks for arXiv:2103.02311 (Gravitational wave signatures from dark sector interactions)
+
+(9) gaussian_process_horndeski: friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian process
