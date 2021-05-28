@@ -18,4 +18,6 @@ Summary description of notebooks
 
 (8) supp_ntbks_arxiv.2103.02311: supplementary Mathematica notebooks for arXiv:2103.02311 (Gravitational wave signatures from dark sector interactions)
 
-(9) gaussian_process_horndeski: friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian process
+(9) inflation_cqc: Mathematica code for inflationary quantum dynamics using a classical-quantum correspondence 
+
+(10) supp_ntbks_arxiv.2105.12970: friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian processes
