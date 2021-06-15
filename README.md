@@ -4,4 +4,4 @@ I happily share the notebooks (mathematica and jupyter) used in my research. Hop
 
 Let me know if I can help. Send a friendly message. Cheers, - Reggie
 
-[DOI from Zenodo](https://zenodo.org/badge/latestdoi/336779354)
+DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
