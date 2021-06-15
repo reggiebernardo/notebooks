@@ -1,6 +1,6 @@
 Summary description of notebooks
 
-*My Mathematica codes often use the xAct package and its derivatives (specifically, xPert, xCoba, and xPand) to avoid the mentally taxing tensor algebra calculations chained to metric theories of gravity. This gets the math done and helps me focus on the physical results.
+*Mathematica codes often use the xAct package and its derivatives (specifically, xPert, xCoba, and xPand) to avoid the mentally taxing tensor algebra calculations chained to metric theories of gravity.
 
 (1) thesis_notebooks: collection of notebooks used in my PhD thesis "Compact Objects, Cosmologies, and Gravitational Perturbations in Scalar-Tensor Theories of Gravity"
 
@@ -21,3 +21,5 @@ Summary description of notebooks
 (9) inflation_cqc: Mathematica code for inflationary quantum dynamics using a classical-quantum correspondence 
 
 (10) supp_ntbks_arxiv.2105.12970: friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian processes
+
+(11) gp_abcsmc_ga_cosmology: jupyter notebooks using Gaussian processes, approximate Bayesian computation, and genetic algorithm for model-independent reconstructions of late-time Hubble data

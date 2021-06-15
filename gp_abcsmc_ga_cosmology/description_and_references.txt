@@ -1,0 +1,42 @@
+supplementary notebooks to arxiv:xxxx.xxxxx
+
+towards a model independent reconstruction of late time Hubble data
+(1) gp_abcsmc_reconstruction.ipynb - GP + ABC-SMC applied to CC and SNe reconstruction
+(2) gp_ga_reconstruction.ipynb - GP + GA applied to CC and SNe reconstruction
+
+acronyms:
+GP = Gaussian processes
+ABC-SMC = approximate Bayesian computation with sequential Monte Carlo
+GA = genetic algorithm
+CC = cosmic chronometers
+SNe = supernovae
+
+references for the cosmological data sets
+
+SNe:
+
+[1] D. M. Scolnic et al., The Complete Light-curve Sample of Spectroscopically Confirmed SNe Ia
+from Pan-STARRS1 and Cosmological Constraints from the Combined Pantheon Sample,
+Astrophys. J. 859 (2018) 101 [1710.00845].
+
+[2] https://github.com/dscolnic/Pantheon/tree/master/Binned_data
+
+cosmic chronometers:
+
+[3] M. Moresco, L. Pozzetti, A. Cimatti, R. Jimenez, C. Maraston, L. Verde et al., A 6%
+measurement of the Hubble parameter at z $\sim$ 0.45: direct evidence of the epoch of cosmic
+re-acceleration, JCAP 05 (2016) 014 [1601.01701].
+
+[4] M. Moresco, Raising the bar: new constraints on the Hubble parameter with cosmic
+chronometers at z $\sim$ 2, Mon. Not. Roy. Astron. Soc. 450 (2015) L16 [1503.01116].
+
+[5] C. Zhang, H. Zhang, S. Yuan, S. Liu, T.-J. Zhang and Y.-C. Sun, Four new observational
+H(z) data from luminous red galaxies in the Sloan Digital Sky Survey data release seven,
+Research in Astronomy and Astrophysics 14 (2014) 1221 [1207.4541].
+
+[6] D. Stern, R. Jimenez, L. Verde, M. Kamionkowski and S. A. Stanford, Cosmic chronometers:
+constraining the equation of state of dark energy. I: H(z) measurements, JCAP 2010 (2010)
+008 [0907.3149].
+
+[7] M. Moresco et al., Improved constraints on the expansion rate of the Universe up to z $\sim$ 1.1
+from the spectroscopic evolution of cosmic chronometers, JCAP 2012 (2012) 006 [1201.3609].
