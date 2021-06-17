@@ -1,6 +1,6 @@
-supplementary notebooks to arxiv:xxxx.xxxxx
+supplementary notebooks to arxiv:2106.08688
 
-towards a model independent reconstruction of late time Hubble data
+Towards a model independent reconstruction of late time Hubble data
 (1) gp_abcsmc_reconstruction.ipynb - GP + ABC-SMC applied to CC and SNe reconstruction
 (2) gp_ga_reconstruction.ipynb - GP + GA applied to CC and SNe reconstruction
 
