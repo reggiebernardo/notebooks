@@ -1,0 +1,4 @@
+supplementary notebooks to arXiv:2107.08762
+
+(1) well_tempered_teledeski_cosmology.nb - main notebook, contents: the well-tempered recipe, well-tempered models, dynamical system analysis, numerical solutions
+(2) teledeski_cosmology_field_equations.nb - derivation of the cosmological field equations from the Teledeski action

@@ -1,10 +1,12 @@
 # notebooks
 
-Happily sharing the notebooks (mathematica and jupyter) used in my research. Hopefully, this little effort makes science more accessible and can be of help to someone finding the field too dark.
+Happily sharing the notebooks (Mathematica and Jupyter) used in my research. Hopefully, this little effort makes science more accessible and can be of help to someone finding the field too dark.
 
 Let me know if I can help. Send a friendly message. Cheers, - [*Reggie*](https://reggiebernardo.weebly.com/)
 
 DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
+
+Please cite the arXiv papers associated with the notebooks if the codes were helpful in research. Thank you.
 
 ***Summary description of notebooks***
 
@@ -31,3 +33,15 @@ DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
 (10) [supp_ntbks_arxiv.2105.12970](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2105.12970): friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian processes ([arXiv:2105.12970](https://arxiv.org/abs/2105.12970))
 
 (11) [supp_ntbks_arxiv.2106.08688](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2106.08688): jupyter notebooks using Gaussian processes, approximate Bayesian computation, and genetic algorithm for the reconstruction of Hubble data ([arXiv:2106.08688](https://arxiv.org/abs/2106.08688))
+
+(12) [supp_ntbks_arxiv.2107.08762](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2107.08762): Mathematica notebooks for Well-Tempered Teledeski Cosmology ([arXiv:2107.08762](https://arxiv.org/abs/2107.08762))
+
+This collection of notebooks can be cited as:
+
+@misc{reggie_bernardo_4810864,
+  author       = {Reggie Bernardo},
+  title        = {{reggiebernardo/notebooks: dark energy research notebooks}},
+  year = {2021},
+  publisher    = {Zenodo},
+  howpublished = {\href{https://doi.org/10.5281/zenodo.4810864}{10.5281/zenodo.4810864}}
+}
