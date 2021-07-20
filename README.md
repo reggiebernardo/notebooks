@@ -44,5 +44,5 @@ reggie_bernardo_4810864,
   title        = {{ reggiebernardo/notebooks: dark energy research notebooks }},
   year = {2021},
   publisher    = {Zenodo},
-  howpublished = {\href{https://doi.org/10.5281/zenodo.4810864}{ 10.5281/zenodo.4810864 }}
+  howpublished = {\href{ https://doi.org/10.5281/zenodo.4810864 }{ 10.5281/zenodo.4810864 }}
 }
