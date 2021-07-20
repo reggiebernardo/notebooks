@@ -6,7 +6,7 @@ Let me know if I can help. Send a friendly message. Cheers, - [*Reggie*](https:/
 
 DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
 
-Please cite the arXiv papers associated with the notebooks if the codes were helpful in research. Thank you.
+Please cite the arXiv papers associated with the notebooks if you found the codes helpful. Thank you.
 
 ***Summary description of notebooks***
 
