@@ -1,0 +1,2 @@
+well_tempered_teledeski_minkowski.nb:
+Mathematica notebook for arXiv:2108.02500 on well-tempered Minkowski vacuum solutions in Teledeski gravity. Please cite arXiv:2108.02500 if this notebook was helpful. Thank you.
