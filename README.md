@@ -18,7 +18,7 @@ Please cite the arXiv papers associated with the notebooks if the codes helpful 
 
 (2021/04) [supp_ntbks_arxiv.2105.12970](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2105.12970): friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian processes ([arXiv:2105.12970](https://arxiv.org/abs/2105.12970))
 
-(2021/03) [inflation_cqc](https://github.com/reggiebernardo/notebooks/tree/main/inflation_cqc): Mathematica code for inflationary quantum dynamics using a classical-quantum correspondence
+(2021/03) [supp_ntbks_arxiv.2109.08508](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2109.08508): Mathematica code for inflationary quantum dynamics using a classical-quantum correspondence ([arXiv:2109.08508](https://arxiv.org/abs/2109.08508))
 
 (2021/02) [supp_ntbks_arxiv.2103.02311](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2103.02311): supplementary Mathematica notebooks for [arXiv:2103.02311](https://arxiv.org/abs/2103.02311) (*Gravitational wave signatures from dark sector interactions*)
 
