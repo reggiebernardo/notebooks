@@ -12,6 +12,8 @@ Please cite the arXiv papers associated with the notebooks if the codes helpful 
 
 *Mathematica codes often use the [xAct](http://www.xact.es/documentation.html) package and its derivatives [xPert](http://www.xact.es/xPert/index.html), [xCoba](http://www.xact.es/xCoba/index.html), and [xPand](http://www.xact.es/xPand/index.html).
 
+(2021/08) [supp_ntbks_arxiv.2111.08289](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2111.08289): jupyter notebook for parametric and nonparametric analyses of cosmological data hinting at dark energy evolution ([arXiv:2111.08289](https://arxiv.org/abs/2111.08289))
+
 (2021/07) [supp_ntbks_arxiv.2108.02500](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2108.02500): Mathematica notebooks for well-tempered Minkowski vacuum solutions in Teledeski gravity ([arXiv:2108.02500](https://arxiv.org/abs/2108.02500))
 
 (2021/06) [supp_ntbks_arxiv.2107.08762](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2107.08762): Mathematica notebooks for Well-Tempered Teledeski Cosmology ([arXiv:2107.08762](https://arxiv.org/abs/2107.08762))

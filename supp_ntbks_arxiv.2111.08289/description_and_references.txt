@@ -1,0 +1,14 @@
+tutorial jupyter notebook for arxiv:2111.08289
+
+Parametric and nonparametric methods hint dark energy evolution
+(1) CC + BAO Hubble data
+(2) parametric analyses of DE
+(3) GP reconstruction of DE
+
+acronyms:
+CC = cosmic chronometers
+BAO = baryon acoustic oscillations
+DE = dark energy
+GP = Gaussian processes
+
+references (written as markdowns) can be found in the jupyter notebook
