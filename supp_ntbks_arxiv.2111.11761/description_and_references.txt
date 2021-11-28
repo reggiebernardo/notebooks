@@ -1,0 +1,5 @@
+sample computation jupyter notebook for arxiv:2111.11761
+
+Confronting quantum-corrected teleparallel cosmology with observations
+
+references (written as markdowns) can be found in the jupyter notebook

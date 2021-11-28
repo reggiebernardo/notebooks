@@ -31,3 +31,5 @@ Please cite the papers associated with the notebooks if the codes were helpful i
 (13) supp_ntbks_arxiv.2108.02500: Mathematica notebooks for well-tempered Minkowski vacuum solutions in Teledeski gravity (arXiv:2108.02500)
 
 (14) supp_ntbks_arxiv.2111.08289: jupyter notebook for parametric and nonparametric analyses of cosmological data hinting at dark energy evolution (arXiv:2111.08289)
+
+(15) supp_ntbks_arxiv.2111.11761: jupyter notebook for studying the quantum-corrected telerapallel cosmology with background observation (arXiv:2111.11761)
