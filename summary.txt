@@ -33,3 +33,7 @@ Please cite the papers associated with the notebooks if the codes were helpful i
 (14) supp_ntbks_arxiv.2111.08289: jupyter notebook for parametric and nonparametric analyses of cosmological data hinting at dark energy evolution (arXiv:2111.08289)
 
 (15) supp_ntbks_arxiv.2111.11761: jupyter notebook for studying the quantum-corrected telerapallel cosmology with background observation (arXiv:2111.11761)
+
+(16) supp_ntbks_arxiv.xxxx.xxxxx: Mathematica notebook for studying black holes in tensor-vector-scalar theory (arXiv:xxxx.xxxxx)
+
+(16) supp_ntbks_arxiv.yyyy.yyyyy: Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models (arXiv:yyyy.yyyyy)
