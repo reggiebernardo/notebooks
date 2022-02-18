@@ -1,4 +1,4 @@
-supplementary notebooks to arXiv:yyyy.yyyyy
+supplementary notebooks to arXiv:2202.08672
 
 (1) tadpole_dynamics.nb - main notebook, contents: review of degenerate (B Flat minor model), analytical and numerical analysis of nondegenerate models
 (2) tadpole_cosmology.nb - derivation of the field equations in FRW beginning from the action, uses the xAct, xPert, and xCoba packages

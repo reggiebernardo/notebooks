@@ -1,8 +1,8 @@
 # notebooks
 
-Happily sharing my research notebooks (Mathematica and Jupyter), hoping this effort makes the science accessible to someone finding the field too dark.
+Happily sharing my research notebooks, hoping this effort makes the science accessible to someone finding the field too dark.
 
-Here to help as much. Send a message. Cheers, - [*Reggie*](https://reggiebernardo.weebly.com/)
+Here to help. Send a message. Cheers, - [*Reggie*](https://reggiebernardo.weebly.com/)
 
 DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
 
@@ -12,9 +12,9 @@ Please cite the arXiv papers associated with the notebooks if the codes helpful 
 
 *Mathematica codes often use the [xAct](http://www.xact.es/documentation.html) package and its derivatives [xPert](http://www.xact.es/xPert/index.html), [xCoba](http://www.xact.es/xCoba/index.html), and [xPand](http://www.xact.es/xPand/index.html).
 
-(2022/02) [supp_ntbks_arxiv.yyyy.yyyyy](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.yyyy.yyyyy): Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models ([arXiv:yyyy.yyyyy](https://arxiv.org/abs/yyyy.yyyyy))
+(2022/02) [supp_ntbks_arxiv.2202.08672](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08672): Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models ([arXiv:2202.08672](https://arxiv.org/abs/2202.08672))
 
-(2022/01) [supp_ntbks_arxiv.xxxx.xxxxx](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.xxxx.xxxxx): Mathematica notebook for studying black holes in tensor-vector-scalar theory ([arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx))
+(2022/01) [supp_ntbks_arxiv.2202.08460](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08460): Mathematica notebook for studying black holes in tensor-vector-scalar theory ([arXiv:2202.08460](https://arxiv.org/abs/2202.08460))
 
 (2021/09) [supp_ntbks_arxiv.2111.11761](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2111.11761): jupyter notebook for studying quantum-corrected telerapallel cosmology with background observation ([arXiv:2111.11761](https://arxiv.org/abs/2111.11761))
 
