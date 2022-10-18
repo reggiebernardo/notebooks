@@ -36,4 +36,6 @@ Please cite the papers associated with the notebooks if the codes were helpful i
 
 (16) supp_ntbks_arxiv.2202.08460: Mathematica notebook for studying black holes in tensor-vector-scalar theory (arXiv:2202.08460)
 
-(16) supp_ntbks_arxiv.2202.08672: Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models (arXiv:2202.08672)
+(17) supp_ntbks_arxiv.2202.08672: Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models (arXiv:2202.08672)
+
+(18) supp_ntbks_arxiv.2208.07663: Notebooks for calculation of AdS black hole metric and entropy in EFT of gravity (arXiv:2208.07663)

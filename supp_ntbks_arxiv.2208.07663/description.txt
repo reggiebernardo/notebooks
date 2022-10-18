@@ -1,0 +1,4 @@
+supplementary notebooks to arXiv:2208.07663
+
+(1) adS_CFT_O3sol.nb - variation of the EFT action, derivation of the metric correction up to cubic curvature EFT
+(2) entropy_calc.nb - calculation of the entropy EFT contributions in AdS black hole

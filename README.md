@@ -12,6 +12,8 @@ Please cite the arXiv papers associated with the notebooks if the codes were hel
 
 *Mathematica codes often use the [xAct](http://www.xact.es/documentation.html) package and its derivatives [xPert](http://www.xact.es/xPert/index.html), [xCoba](http://www.xact.es/xCoba/index.html), and [xPand](http://www.xact.es/xPand/index.html).
 
+(2022/03) [supp_ntbks_arxiv.2208.07663](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2208.07663): Notebooks for calculation of AdS black hole metric and entropy in EFT of gravity ([arXiv:2208.07663](https://arxiv.org/abs/2208.07663))
+
 (2022/02) [supp_ntbks_arxiv.2202.08672](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08672): Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models ([arXiv:2202.08672](https://arxiv.org/abs/2202.08672))
 
 (2022/01) [supp_ntbks_arxiv.2202.08460](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08460): Mathematica notebook for studying black holes in tensor-vector-scalar theory ([arXiv:2202.08460](https://arxiv.org/abs/2202.08460))
