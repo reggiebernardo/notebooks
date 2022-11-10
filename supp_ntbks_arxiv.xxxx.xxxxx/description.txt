@@ -1,0 +1,4 @@
+python notebooks for ABC study of XCDM cosmological models
+(1) X23CDMvABCnoBAO_pub.ipynb - ABC evolution of XCDM with SNe + CC
+(2) X23CDMvABCwH0P18_pub.ipynb - ABC evolution of XCDM with SNe + BB + BAO and H0 by Planck
+(3) whiskerH0.ipynb - ABC/MCMC H0 constraints on XCDM with different data sets and priors
