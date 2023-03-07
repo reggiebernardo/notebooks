@@ -2,15 +2,17 @@
 
 Happily sharing my research notebooks, hoping this effort makes the science accessible to someone finding the field too dark.
 
-Here to help. Send a message. Cheers, - [*Reggie*](https://reggiebernardo.weebly.com/)
+Always here to help. Send a message. Cheers, - [*Reggie*](https://reggiebernardo.weebly.com/)
 
 DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
 
-Please cite the arXiv papers associated with the notebooks if the codes were helpful. Thank you.
+Please cite the arXiv papers associated with the notebooks if the codes were helpful in any way. Thank you.
 
 ***Summary description of notebooks*** (latest on top)
 
 *Mathematica codes often use the [xAct](http://www.xact.es/documentation.html) package and its derivatives [xPert](http://www.xact.es/xPert/index.html), [xCoba](http://www.xact.es/xCoba/index.html), and [xPand](http://www.xact.es/xPand/index.html).
+
+(2023/01) [supp_ntbks_arxiv.2212.02203](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2212.02203): python notebooks for Hubble constant selection with ABC/MCMC ([arXiv:2212.02203](https://arxiv.org/abs/2212.02203))
 
 (2022/04) [supp_ntbks_arxiv.2211.05482](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2211.05482): jupyter notebooks for ABC analysis of XCDM model selection and parameter estimation ([arXiv:2211.05482](https://arxiv.org/abs/2211.05482))
 
