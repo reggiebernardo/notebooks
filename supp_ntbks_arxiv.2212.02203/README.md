@@ -1,0 +1,1 @@
+We have prepared these notebooks as supplement to our paper "Hubble constant by natural selection" ([arXiv:2212.02203 [astro-ph.CO]](https://arxiv.org/abs/2212.02203)) so that the readers at their leisure can further enjoy the intricacies that come with using ABC and MCMC. Cheers, - Reggie and You-Ru
