@@ -1,0 +1,1 @@
+Supplementary notebooks to [arXiv:2407.17987](https://arxiv.org/abs/2407.17987) for computing one- and two-point statistics in a pulsar timing array relevant to Gaussianity of a gravitational wave background.

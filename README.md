@@ -1,64 +1,52 @@
-# notebooks
+# notebooks [![GitHub stars](https://img.shields.io/github/stars/reggiebernardo/notebooks)](https://github.com/reggiebernardo/notebooks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/reggiebernardo/notebooks)](https://github.com/reggiebernardo/notebooks/network) [![GitHub license](https://img.shields.io/github/license/reggiebernardo/notebooks)](https://github.com/reggiebernardo/notebooks/blob/main/LICENSE) [![DOI](https://zenodo.org/badge/336779354.svg)](https://zenodo.org/doi/10.5281/zenodo.4810864)
 
-Happily sharing my research notebooks, hoping this effort makes the science accessible to someone finding the field too dark.
+Welcome to my research notebooks repository! I hope this effort makes my science accessible to anyone finding it too dark.
 
-Always here to help. Send a message. Cheers, - [*Reggie*](https://reggiebernardo.weebly.com/)
+**Always happy to help. Drop me a message. Cheers, - [Reggie](https://reggiebernardo.github.io/)**
 
-DOI: [10.5281/zenodo.4810864](https://doi.org/10.5281/zenodo.4810864)
+## Summary Description of Notebooks
 
-Please cite the arXiv papers associated with the notebooks if the codes were helpful in any way. Thank you.
+### Latest Notebooks
+- **2024/01**: [Python Notebooks for One- and Two-Point Statistics in Pulsar Timing Arrays](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2407.17987) ([arXiv:2407.17987](https://arxiv.org/abs/2407.17987))
+- **2023/01**: [Python Notebooks for Hubble Constant Selection with ABC/MCMC](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2212.02203) ([arXiv:2212.02203](https://arxiv.org/abs/2212.02203))
 
-***Summary description of notebooks*** (latest on top)
+### 2022
+- **2022/04**: [Jupyter Notebooks for ABC Analysis of XCDM Model Selection and Parameter Estimation](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2211.05482) ([arXiv:2211.05482](https://arxiv.org/abs/2211.05482))
+- **2022/03**: [Notebooks for AdS Black Hole Metric and Entropy in EFT of Gravity](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2208.07663) ([arXiv:2208.07663](https://arxiv.org/abs/2208.07663))
+- **2022/02**: [Mathematica Notebooks for Nondegenerate Self-Tuning Models Analysis](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08672) ([arXiv:2202.08672](https://arxiv.org/abs/2202.08672))
+- **2022/01**: [Mathematica Notebook for Black Holes in Tensor-Vector-Scalar Theory](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08460) ([arXiv:2202.08460](https://arxiv.org/abs/2202.08460))
 
-*Mathematica codes often use the [xAct](http://www.xact.es/documentation.html) package and its derivatives [xPert](http://www.xact.es/xPert/index.html), [xCoba](http://www.xact.es/xCoba/index.html), and [xPand](http://www.xact.es/xPand/index.html).
+### 2021
+- **2021/09**: [Jupyter Notebook for Quantum-Corrected Teleparallel Cosmology](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2111.11761) ([arXiv:2111.11761](https://arxiv.org/abs/2111.11761))
+- **2021/08**: [Jupyter Notebook for Dark Energy Evolution Analysis](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2111.08289) ([arXiv:2111.08289](https://arxiv.org/abs/2111.08289))
+- **2021/07**: [Mathematica Notebooks for Teledeski Gravity Solutions](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2108.02500) ([arXiv:2108.02500](https://arxiv.org/abs/2108.02500))
+- **2021/06**: [Mathematica Notebooks for Well-Tempered Teledeski Cosmology](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2107.08762) ([arXiv:2107.08762](https://arxiv.org/abs/2107.08762))
+- **2021/05**: [Jupyter Notebooks for Hubble Data Reconstruction](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2106.08688) ([arXiv:2106.08688](https://arxiv.org/abs/2106.08688))
+- **2021/04**: [Two-Part Jupyter Notebook for Horndeski Gravity](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2105.12970) ([arXiv:2105.12970](https://arxiv.org/abs/2105.12970))
+- **2021/03**: [Mathematica Code for Inflationary Quantum Dynamics](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2109.08508) ([arXiv:2109.08508](https://arxiv.org/abs/2109.08508))
+- **2021/02**: [Supplementary Mathematica Notebooks for Dark Sector Interactions](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2103.02311) ([arXiv:2103.02311](https://arxiv.org/abs/2103.02311))
+- **2021/01**: [Supplementary Mathematica Notebooks for Kinetic Gravity Braiding](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2101.00965) ([arXiv:2101.00965](https://arxiv.org/abs/2101.00965))
 
-(2023/01) [supp_ntbks_arxiv.2212.02203](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2212.02203): python notebooks for Hubble constant selection with ABC/MCMC ([arXiv:2212.02203](https://arxiv.org/abs/2212.02203))
+### 2020
+- **2020/06**: [Supplementary Mathematica Notebooks for Kinetic Gravity Braiding Perturbations](https://github.com/reggiebernardo/notebooks/tree/main/supp_codes_arxiv.2007.06006) ([arXiv:2007.06006](https://arxiv.org/abs/2007.06006))
+- **2020/05**: [Second-Order Action for Kinetic Gravity Braiding](https://github.com/reggiebernardo/notebooks/tree/main/quadratic_action_kgb)
+- **2020/04**: [Mathematica Slides for xAct Field Theory](https://github.com/reggiebernardo/notebooks/tree/main/xact_workshop_2020)
+- **2020/03**: [Cosmology and xTensor Workshop Output](https://github.com/reggiebernardo/notebooks/tree/main/gg_cosmo_xact_2019)
+- **2020/02**: [Jupyter Notebooks for Cosmic Dynamics](https://github.com/reggiebernardo/notebooks/tree/main/integration_cosmo_dynamics)
+- **2020/01**: [Collection of Notebooks from PhD Thesis](https://github.com/reggiebernardo/notebooks/tree/main/thesis_notebooks)
 
-(2022/04) [supp_ntbks_arxiv.2211.05482](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2211.05482): jupyter notebooks for ABC analysis of XCDM model selection and parameter estimation ([arXiv:2211.05482](https://arxiv.org/abs/2211.05482))
+## Tools and Packages
+The Mathematica codes often use the [xAct](http://www.xact.es/documentation.html) package and its derivatives [xPert](http://www.xact.es/xPert/index.html), [xCoba](http://www.xact.es/xCoba/index.html), [xPand](http://www.xact.es/xPand/index.html).
 
-(2022/03) [supp_ntbks_arxiv.2208.07663](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2208.07663): Notebooks for calculation of AdS black hole metric and entropy in EFT of gravity ([arXiv:2208.07663](https://arxiv.org/abs/2208.07663))
+## How to Cite
 
-(2022/02) [supp_ntbks_arxiv.2202.08672](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08672): Mathematica notebooks for analytic and numerical analysis of nondegenerate self-tuning models ([arXiv:2202.08672](https://arxiv.org/abs/2202.08672))
-
-(2022/01) [supp_ntbks_arxiv.2202.08460](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2202.08460): Mathematica notebook for studying black holes in tensor-vector-scalar theory ([arXiv:2202.08460](https://arxiv.org/abs/2202.08460))
-
-(2021/09) [supp_ntbks_arxiv.2111.11761](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2111.11761): jupyter notebook for studying quantum-corrected telerapallel cosmology with background observation ([arXiv:2111.11761](https://arxiv.org/abs/2111.11761))
-
-(2021/08) [supp_ntbks_arxiv.2111.08289](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2111.08289): jupyter notebook for parametric and nonparametric analyses of cosmological data hinting at dark energy evolution ([arXiv:2111.08289](https://arxiv.org/abs/2111.08289))
-
-(2021/07) [supp_ntbks_arxiv.2108.02500](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2108.02500): Mathematica notebooks for well-tempered Minkowski vacuum solutions in Teledeski gravity ([arXiv:2108.02500](https://arxiv.org/abs/2108.02500))
-
-(2021/06) [supp_ntbks_arxiv.2107.08762](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2107.08762): Mathematica notebooks for Well-Tempered Teledeski Cosmology ([arXiv:2107.08762](https://arxiv.org/abs/2107.08762))
-
-(2021/05) [supp_ntbks_arxiv.2106.08688](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2106.08688): jupyter notebooks using Gaussian processes, approximate Bayesian computation, and genetic algorithm for the reconstruction of Hubble data ([arXiv:2106.08688](https://arxiv.org/abs/2106.08688))
-
-(2021/04) [supp_ntbks_arxiv.2105.12970](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2105.12970): friendly two-part jupyter notebook for reconstructing Horndeski gravity via the Gaussian processes ([arXiv:2105.12970](https://arxiv.org/abs/2105.12970))
-
-(2021/03) [supp_ntbks_arxiv.2109.08508](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2109.08508): Mathematica code for inflationary quantum dynamics using a classical-quantum correspondence ([arXiv:2109.08508](https://arxiv.org/abs/2109.08508))
-
-(2021/02) [supp_ntbks_arxiv.2103.02311](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2103.02311): supplementary Mathematica notebooks for [arXiv:2103.02311](https://arxiv.org/abs/2103.02311) (*Gravitational wave signatures from dark sector interactions*)
-
-(2021/01) [supp_ntbks_arxiv.2101.00965](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2101.00965): supplementary Mathematica notebooks for [arXiv:2101.00965](https://arxiv.org/abs/2101.00965) (*Self-tuning kinetic gravity braiding: Cosmological dynamics,  shift symmetry, and the tadpole*)
-
-(2020/06) [supp_codes_arxiv.2007.06006](https://github.com/reggiebernardo/notebooks/tree/main/supp_codes_arxiv.2007.06006): supplementary Mathematica notebooks for [arXiv:2007.06006](https://arxiv.org/abs/2007.06006) (*Stealth black hole perturbations in kinetic gravity braiding*)
-
-(2020/05) [quadratic_action_kgb](https://github.com/reggiebernardo/notebooks/tree/main/quadratic_action_kgb): derivation of the second-order action for scalar and tensor perturbations in kinetic gravity braiding using [xPand](http://www.xact.es/xPand/index.html)
-
-(2020/04) [xact_workshop_2020](https://github.com/reggiebernardo/notebooks/tree/main/xact_workshop_2020): Mathematica slides for field theory using xAct in [Gravity Group](https://gravity-nip.github.io/)'s workshop in 2020
-
-(2020/03) [gg_cosmo_xact_2019](https://github.com/reggiebernardo/notebooks/tree/main/gg_cosmo_xact_2019): Mathematica slides and group output in cosmology and xTensor parts of the [Gravity Group](https://gravity-nip.github.io/)'s workshop in 2019
-
-(2020/02) [integration_cosmo_dynamics](https://github.com/reggiebernardo/notebooks/tree/main/integration_cosmo_dynamics): jupyter notebooks for (i) obtaining the universe's scale factor from the Friedmann equation (ii) studying scalar field dynamics in an expanding spacetime
-
-(2020/01) [thesis_notebooks](https://github.com/reggiebernardo/notebooks/tree/main/thesis_notebooks): collection of notebooks used in my [PhD thesis](https://reggiebernardo.weebly.com/phd.html) *"Compact Objects, Cosmologies, and Gravitational Perturbations in Scalar-Tensor Theories of Gravity"*
-
-This collection of notebooks can be cited as:
+Please cite the associated arXiv papers if my codes were helpful in any way. Thank you!
 
 @misc{
 reggie_bernardo_4810864,
   author       = { Reggie Bernardo },
   title        = {{ reggiebernardo/notebooks: dark energy research notebooks }},
-  year = {2021},
+  year         = {2021},
   publisher    = {Zenodo},
-  howpublished = {\href{ https://doi.org/10.5281/zenodo.4810864 }{ 10.5281/zenodo.4810864 }}
+  howpublished = {\href{https://doi.org/10.5281/zenodo.4810864}{10.5281/zenodo.4810864}}
 }
