@@ -7,7 +7,7 @@ Welcome to my research notebooks repository! I hope this effort makes my science
 ## Summary Description of Notebooks
 
 ### Latest Notebooks
-- **2025/01**: [Python and Mathematica notebooks for Rayleigh-Levy Flight Statistics in 1D and 2D](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.25xx.yyyyy) ([arXiv:25xx.yyyyy](https://arxiv.org/abs/25xx.yyyyy))
+- **2025/01**: [Python and Mathematica notebooks for Rayleigh-Levy Flight Statistics in 1D and 2D](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv_25xx.yyyyy) ([arXiv:25xx.yyyyy](https://arxiv.org/abs/25xx.yyyyy))
 - **2024/01**: [Python Notebooks for One- and Two-Point Statistics in Pulsar Timing Arrays](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2407.17987) ([arXiv:2407.17987](https://arxiv.org/abs/2407.17987))
 - **2023/01**: [Python Notebooks for Hubble Constant Selection with ABC/MCMC](https://github.com/reggiebernardo/notebooks/tree/main/supp_ntbks_arxiv.2212.02203) ([arXiv:2212.02203](https://arxiv.org/abs/2212.02203))
 
